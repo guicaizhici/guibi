@@ -21,7 +21,7 @@
 # 鬼才 智能BI平台
 
 
-> 作者： 🌟  [鬼才之刺]( [guicaizhici (鬼才之刺) (github.com)](https://github.com/guicaizhici) )
+> 作者： 🌟  [鬼才之刺](https://github.com/guicaizhici)
 
 ## 项目介绍 📢
 本项目是基于React+Spring Boot+RabbitMQ+AIGC的智能BI数据分析平台。
