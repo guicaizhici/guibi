@@ -69,7 +69,7 @@
 ### 后端
 * Java Spring Boot 2.7.2
 
-* MySQL 数据库
+* MySQL数据库
 
 * MyBatis + MyBatis Plus 数据访问（开启分页）
 
